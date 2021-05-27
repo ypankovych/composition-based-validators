@@ -140,7 +140,6 @@ class List(ContainerValidator):
 
 
 class Int(BaseValidator):
-    error_message = "`{field_name}` should be an int"
 
     def __init__(self, min_value=None, max_value=None):
         self.min_value = min_value
