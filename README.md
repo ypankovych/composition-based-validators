@@ -32,3 +32,8 @@ foo = Foo(
 )
 
 ```
+
+## Here's validation tree of above validator:
+
+![image](https://user-images.githubusercontent.com/31005942/119877978-52010280-bf32-11eb-8e5f-61366b06ced2.png)
+
