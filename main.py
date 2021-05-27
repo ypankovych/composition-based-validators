@@ -150,5 +150,5 @@ class Int(BaseValidator):
         if self.min_value:
             valid = valid and value >= self.min_value
         if self.max_value:
-            valid = value <= self.max_value
+            valid = valid and value <= self.max_value
         return valid
