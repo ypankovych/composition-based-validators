@@ -1,4 +1,6 @@
-# composition-based-validators
+# Composition based validators
+
+This is a minimal implementation of infinitely nested validators.
 
 ```python
 class Foo:
